@@ -54,7 +54,8 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
-
+.contactImage{width:100px}
+table{width:100%;background: white;color: black;}
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
